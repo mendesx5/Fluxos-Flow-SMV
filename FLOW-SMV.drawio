@@ -1,0 +1,286 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="GeOBgMN8dwZsm6rrsNi0">
+    <mxGraphModel dx="3793" dy="2939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;" value="COMO FUNCIONA O PROCESSO COMPLETO HOJE:" vertex="1">
+          <mxGeometry height="30" width="200" x="120" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-12" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=10;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="PREENCHIMENTO DO FORMULÁRIO" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-13" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=10;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-22" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-21" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="ADICIONAR EVENTO À PLANILHA COM TODAS AS INFORMAÇÕES NECESSÁRIAS DAQUELE EVENTO (QUANTIDADE DE VENDEDORES, NÚMERO DE DISPAROS POR LOJA, ETC)" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-14" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=10;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="VERIFICAR SE HÁ GRUPOS E LOJAS JÁ CRIADOS, SE NÃO, CRIAR GRUPOS E LOJAS NO FLOW" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-15" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=10;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="CRIAR UM NOVO EVENTO DO GRUPO E ATRIBUÍ-LO AS LOJAS QUE PARTICIPARÃO DAQUELA AÇÃO" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-16" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=10;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="CADASTRAR A CHAVE DA NINA EM CADA LOJA" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="680" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-19" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=10;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="CRIAR OS ACESSOS DOS GESTORES, VENDEDORES E QUEM MAIS FOR NECESSÁRIO" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-20" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontSize=10;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="IMPORTAÇÃO DA BASE DE CONTATOS&lt;div&gt;(VENDEDORES E/OU CRM)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-27" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;" value="CONFIGURAÇÃO EM WHATSAPP API" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-24" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-23" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-21" parent="1" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;rounded=0;" value="CRIAÇÃO DE GRUPO NO DIGISAC E ALINHAMENTO COM OS GESTORES SOBRE AS REUNIÕES DE GESTORES E VENDEDORES" vertex="1">
+          <mxGeometry height="80" width="200" x="360" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-25" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-23" parent="1" style="whiteSpace=wrap;html=1;fontSize=10;fontFamily=Comic Sans MS;rounded=0;" value="SOLICITAR O PREENCHIMENTO DO CHEKLIST, ENVIO DE METAS E OFERTAS" vertex="1">
+          <mxGeometry height="80" width="200" x="360" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-36" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-26" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;MONTAGEM E TESTE DOS SCRIPTS PARA OS DISPAROS E APROVAÇÃO DOS GESTORES&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="1160" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" value="CRIAÇÃO DA CAMPANHA PARA O INICIO DOS DISPAROS" vertex="1">
+          <mxGeometry height="80" width="200" x="120" y="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=4;fontFamily=Comic Sans MS;" value="&lt;font&gt;QUANDO OS NÚMEROS E TEMPLATES ESTIVEREM ÁPTOS PARA O USO&lt;/font&gt;" vertex="1">
+          <mxGeometry height="20" width="80" x="120" y="1020" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-55" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-56" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-44" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Comic Sans MS;" value="GERENTE" vertex="1">
+          <mxGeometry height="90" width="160" x="1195" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-51" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-50">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-57" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-58" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="SUPORTE" vertex="1">
+          <mxGeometry height="60" width="120" x="1215" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-60" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-59">
+          <mxGeometry relative="1" x="0.4" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-47" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="VENDEDOR" vertex="1">
+          <mxGeometry height="60" width="120" x="1315" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-62" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="GESTOR" vertex="1">
+          <mxGeometry height="60" width="120" x="1115" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-50" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;fontSize=5;labelBorderColor=light-dark(#FFFFFF, #ffffff);fontColor=default;" value="&lt;ul&gt;&lt;li&gt;ACESSO A TODOS OS GRUPOS E LOJAS&lt;/li&gt;&lt;li&gt;CRIAÇÃO, CONFIGURAÇÃO E INFORMAÇÕES DE EVENTOS, GUPOS, LOJAS, GESTORES, VENDEDORES E BASES&lt;/li&gt;&lt;li&gt;CONFIGURAÇÃO DA IA&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="60" width="190" x="1365" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-54" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;fontSize=5;labelBorderColor=light-dark(#FFFFFF, #ffffff);fontColor=default;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;ACESSO COMPLETO&amp;nbsp; AO SISTEMA&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;GESTÃO DOS SUPORTES (TER ACESSO AOS NÚMEROS DE FORMA SIMPLIFICADA DE COMO ESTÃO AS LOJAS DE UM SUPORTE ESPECÍFICO OU UM GERALZÃO DE COMO ESTÁ A SITUAÇÃO ATUAL DOS EVENTOS/GRUPOS/LOJAS)&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="90" width="190" x="1395" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-59" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;fontSize=5;labelBorderColor=light-dark(#FFFFFF, #ffffff);fontColor=default;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;ACESSO AO DASHBOARD DE VENDEDOR (SIMPLIFICADO)&lt;/li&gt;&lt;li&gt;ACESSO À SUA BASE DE CONTATOS&lt;/li&gt;&lt;li&gt;ACESSO À WHATSAPP OFICIAL ONDE SE CONVERSA COM OS LEADS&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="1280" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-61" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;fontSize=5;labelBorderColor=light-dark(#FFFFFF, #ffffff);fontColor=default;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;ul&gt;&lt;li&gt;ACESSO AO DASHBOARD MAIS COMPLETO QUE O DE VENDEDORES&lt;/li&gt;&lt;li&gt;ACESSO A TOAS AS CONVERSAS DE TODOS OS VENDEDORES (NÃO É POSSÍVEL INTERAGIR COM O LEAD)&lt;/li&gt;&lt;li&gt;CONTROLE DAS BASES E IMPORTAÇÃO DE BASE DE CRM&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="1080" y="540" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-108" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-109" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-110" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-118" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-103" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="EVENTO SEMANAL" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1750" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-116" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-105" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="EVENTO GRUPO A" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-115" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-106" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="EVENTO GRUPO B" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-117" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-114">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-107" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="EVENTO&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;GRUPO C&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-111" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;" value="&lt;ol&gt;&lt;li&gt;EVENTO POR SEMANA&lt;/li&gt;&lt;li&gt;EVENTO ACIMA DE EVENTO DE GRUPOS&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="90" width="320" x="440" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-125" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-112" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-112" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="GRUPO A" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-126" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;GRUPO B&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-127" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-124">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-114" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;GRUPO C&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="1940" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-119" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=10;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Comic Sans MS;" value="&lt;font&gt;- O INTUITO É, TODOS OS EVENTOS SÃO ESTÃO DENTRO DE UM GRANDE EVENTO SEMANAL (+ REPIQUE).&lt;br&gt;- OS EVENTOS SÃO DEFINIDOS POR GRUPO, PODENDO SER EDITADOS COMO NOS EVENTOS ATUAIS.&lt;br&gt;- SÃO&amp;nbsp;&lt;/font&gt;&lt;span&gt;DISTRIBUÍDOS ENTRE OS SUPORTES DE FORMA IGUALITÁRIA CONFORME A QUANTIDADE TOTAL DE LOJAS ATIVAS NO EVENTO DENTRO DO GRUPO&lt;br&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="240" width="320" x="600" y="1850" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-122" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="X LOJAS" vertex="1">
+          <mxGeometry height="60" width="120" x="120" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-123" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="X LOJAS" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-124" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="X LOJAS" vertex="1">
+          <mxGeometry height="60" width="120" x="440" y="2030" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-141" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="CHECKLIST" vertex="1">
+          <mxGeometry height="60" width="120" x="1060" y="1810" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-140" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;" value="&lt;ol&gt;&lt;li&gt;NOME&lt;/li&gt;&lt;li&gt;EMAIL&lt;/li&gt;&lt;li&gt;TELEFONE&lt;/li&gt;&lt;li&gt;CARGO (GESTOR, VENDEDOR, MARKETING)&lt;/li&gt;&lt;li&gt;LOJA A QUAL PERTENCE&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="100" width="320" x="1220" y="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-144" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=10;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Comic Sans MS;" value="IMPORTAR CHECKLIST DIRETAMENTE NO FLOW E ELE MESMO CONSEGUIR LER E CRIAR OS ACESSOS AUTOMATICAMENTE (DEPOIS DE UM TEMPO)." vertex="1">
+          <mxGeometry height="120" width="240" x="1060" y="1910" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-150" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-151" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="DASHBOARD INICIAL" vertex="1">
+          <mxGeometry height="80" width="120" x="1680" y="1800" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-157" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-147" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-147" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="GRUPO" vertex="1">
+          <mxGeometry height="60" width="120" x="1880" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-156" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-155">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="LOJAS" vertex="1">
+          <mxGeometry height="60" width="120" x="1880" y="1880" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-154" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;" value="&lt;ul&gt;&lt;li&gt;NA TELA INICIAL, AO ENTRAR NO SISTEMA, MOSTRAR TODOS OS GRUPOS QUE ESTÃO ATRIBUÍDOS AO SUPORTE. AO CLICAR NESSE GRUPO, EXPANDIR E MOSTRAR AS PRINCIPAIS INFORMAÇÕES DE COMO ESTÁ SUA SITUAÇÃO COMO GRUPO.&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="100" width="370" x="2050" y="1720" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-155" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;" value="&lt;ul&gt;&lt;li&gt;QUANTITATIVO DE DISPAROS EM RELAÇÃO AO QUE FOI CONTRATADO DE TODAS AS LOJAS ATRIBUÍDAS AO SUPORTE.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;AVISOS RELACIONADOS AS LOJAS, POR EXEMPLO:&lt;br&gt;MONITORAMENTO DE ACESSO DOS VENDEDORES (MUITO TEMPO SEM ACESSAR A PLATAFORMA DURANTE O EVENTO);&lt;/li&gt;&lt;li&gt;LOJAS COM CONVERSÕES ABAIXO DO ESPERADO;&lt;/li&gt;&lt;li&gt;FALTA DE BASE (POR EXEMPLO, SE A BASE CHEGOU A 80% JÁ USADA, SURGIR UM AVISO NESSA TELA DE QUE A BASE ESTÁ ABAIXO DO QUE É NECESSÁRIO PARA OS DISPAROS)&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;EM RESUMO, UM CONTROLE GERAL DAS LOJAS&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="260" width="370" x="2050" y="1860" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-158" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;autosizeText=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;fontSize=10;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Comic Sans MS;" value="UM DASHBOARD MAIS ORGANIZADO PARA TER UM PANORÂMA GERAL DAS LOJAS ATRIBUÍDAS AO SUPORTE E NÃO PRECISAR PROCURAR LOJA POR LOJA, GRUPO POR GRUPO" vertex="1">
+          <mxGeometry height="120" width="240" x="1680" y="1970" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-164" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" value="PENSANDO EM EVENTOS DAS MONTADORAS:&lt;br&gt;&lt;br&gt;AS LOJAS PODEM SER MAIS CONECTADAS, DENTRO DE `EVENTOS GRUPO` PODE SE MARCAR OPÇÃO DE &quot;MONTADORA TAL&quot;, ISSO NÃO IMPACTARIA EM NADA NA DIVISÃO DAS LOJAS POR SUPORTE OU NOS EVENTOS, APENAS SERIA PARA APLICAÇÃO DE FILTROS PARA SE TER, POR EXEMPLO, UM PANORÂMA DE MAIS FÁCIL ACESSO DENTRO DA TELA INICIAL DO FLOW, SEM PRECISAR BUSCAR NÚMEROS DE LOJA POR LOJA.&lt;div&gt;TERIA NÚMEROS EM TEMPO REAL DOS GRUPOS E/OU LOJAS QUE ESTÃO FAZENDO PARTE DAQUELE EVENTO DA GM.&lt;/div&gt;&lt;div&gt;NOVAMENTE, NÃO IMPACTARIA, POR EXEMPLO EM NOME DO EVENTO QUE MUITAS VEZES OS GESTORES QUEREM USAR NOMES DIFERENTES AO INVÉS DE &quot;EVENTO SUPER MEGAVENDAS&quot;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="240" width="440" x="120" y="2170" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-165" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-166" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Comic Sans MS;" value="GRUPO" vertex="1">
+          <mxGeometry height="90" width="160" x="720" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-167" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-171">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-168" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fontFamily=Comic Sans MS;" value="LOJA" vertex="1">
+          <mxGeometry height="90" width="160" x="720" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-169" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="VENDEDOR" vertex="1">
+          <mxGeometry height="60" width="120" x="740" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-170" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fontFamily=Comic Sans MS;" target="m7eydBoCF1hzJjdzP2f9-169">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-171" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontFamily=Comic Sans MS;" value="GESTOR" vertex="1">
+          <mxGeometry height="60" width="120" x="740" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-187" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;fontColor=#FFFF00;" value="FLUXO FLOW:" vertex="1">
+          <mxGeometry height="40" width="280" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-190" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;fontColor=#FFFF00;" value="MELHORIAS E MUDANÇAS SUGERIDAS:" vertex="1">
+          <mxGeometry height="40" width="590" x="40" y="1640" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-192" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" value="&lt;ol&gt;&lt;li&gt;FILTRO DE ATIVOS E INATIVOS DENTRO DE USUÁRIOS&lt;/li&gt;&lt;li&gt;MELHOR RESPONSIVIDADE DO FLOW PARA SE ADAPTAR A TELAS, POR EXEMPLO, BOTÕES E BALÕES QUE PODERIAM SER MELHORES ORGANIZADOS&lt;/li&gt;&lt;li&gt;MUDAR O NOME DA PÁGINA (FLOW)&lt;/li&gt;&lt;li&gt;DEIXAR MAIS REGRADO A CONDIÇÃO DOS FORMULÁRIOS, MUITOS GESTORES ADICIONAM LOJAS DURANTE O EVENTO, PARA UMA MELHOR ORGANIZAÇÃO, EXIGIR ESSA MELHOR ORGANIZAÇÃO, TANTO SOBRE LOJAS, QUANTO SOBRE QUANTIDADE DE VENDEDORES - OBS&lt;/li&gt;&lt;li&gt;AO MEU VER, A NINA AINDA PODE SER MELHORADA, NA FORMA COMO AGE, COMO RESPONDE OU ATÉ MESMO COMO ENVIA ÁUDIO&lt;/li&gt;&lt;li&gt;MAIS FACILIDADE NA HORA DE REGISTRAR VENDA&lt;/li&gt;&lt;/ol&gt;" vertex="1">
+          <mxGeometry height="320" width="320" x="120" y="2600" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-196" edge="1" parent="1" source="m7eydBoCF1hzJjdzP2f9-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="m7eydBoCF1hzJjdzP2f9-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-193" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="GERENTE" vertex="1">
+          <mxGeometry height="60" width="120" x="2560" y="1847.5" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-195" parent="1" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontFamily=Comic Sans MS;" value="&lt;ul&gt;&lt;li&gt;NA TELA DO GERENTE DOS SUPORTES, TER UM PANORÂMA TAMBÉM SOBRE AS METAS, AO INVÉS DE ESTAR CRIANDO LISTAS DIVERSAS SOBRE METAS E RESULTADOS, LISTAR POR SUPORTE AS RESPECTIVAS LOJAS EM QUE ELES ESTEJAM RESPONSÁVEIS E SUAS METAS E BATIMENTO DE METAS CONFORME ATUALIZAÇÃO DOS PRÓPRIOS SUPORTES.&lt;/li&gt;&lt;li&gt;SUPORTES PODEREM ADICIONAR NOTAS NAS LOJAS, ONDE O GERENTE PODE VISUALIZAR PARA ENTENDER OBSERVAÇÕES OU AVISOS SOBRE DETERMINADAS LOJAS&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="275" width="380" x="2720" y="1740" as="geometry" />
+        </mxCell>
+        <mxCell id="m7eydBoCF1hzJjdzP2f9-197" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontFamily=Comic Sans MS;fontSize=25;fontStyle=1;fontColor=#FFFF00;" value="PEQUENAS SUGESTÕES:" vertex="1">
+          <mxGeometry height="40" width="400" x="40" y="2520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
